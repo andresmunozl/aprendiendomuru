@@ -18,6 +18,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
+        <activity android:name="com.equiposemilleromuru.aprendiendo.VocalesActivityA" />
+        <activity android:name="com.equiposemilleromuru.aprendiendo.NumerosActivityA" />
+        <activity android:name="com.equiposemilleromuru.aprendiendo.Splash" />
+        <activity android:name="com.equiposemilleromuru.aprendiendo.MenuVocalesNumerosA" />
         <activity android:name="com.equiposemilleromuru.aprendiendo.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

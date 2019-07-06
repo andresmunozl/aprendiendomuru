@@ -4,15 +4,85 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context="com.equiposemilleromuru.aprendiendo.MainActivity">
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Hello World!"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="100sp"
+                android:src="@mipmap/ic_launcher"
+                android:id="@+id/btnDavid"
+                />
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="100sp"
+                android:src="@mipmap/ic_launcher"
+                android:id="@+id/btnLuis"
+                />
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="100sp"
+                android:src="@mipmap/ic_launcher"
+                android:id="@+id/btnLina"
+                />
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="100sp"
+                android:src="@mipmap/ic_launcher"
+                android:id="@+id/btnFernanda"
+                />
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="100sp"
+                android:src="@mipmap/ic_launcher"
+                android:id="@+id/btnCristian"
+                />
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="100sp"
+                android:src="@mipmap/ic_launcher"
+                android:id="@+id/btnCarlos"
+                />
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="100sp"
+                android:src="@mipmap/ic_launcher"
+                android:id="@+id/btnVictoria"
+                />
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="100sp"
+                android:src="@mipmap/ic_launcher"
+                android:id="@+id/btnDaniel"
+                />
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="100sp"
+                android:src="@mipmap/ic_launcher"
+                android:id="@+id/btnAndres"
+                />
+
+
+
+        </LinearLayout>
+
+    </ScrollView>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
