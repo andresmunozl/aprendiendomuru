@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        referenciar();
         
     }
 
@@ -67,6 +68,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 Toast.makeText(this, "btn Victoria", Toast.LENGTH_SHORT).show();
                 break;
             case  R.id.btnAndres:
+                //Toast.makeText(this, "btnandres", Toast.LENGTH_SHORT).show();
                 Intent intentNum = new Intent(MainActivity.this,MenuVocalesNumerosA.class);
                 startActivity(intentNum);
                 break;
