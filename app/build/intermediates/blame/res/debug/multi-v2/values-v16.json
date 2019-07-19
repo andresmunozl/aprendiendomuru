@@ -1,20 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\Repositorio\\aprendiendomuru\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+            "outputFile": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\argot\\.gradle\\caches\\transforms-2\\files-2.1\\d5ed68be1d30419b3def9ea81bbeced8\\res\\values-v16\\values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "65",
-                        "endOffsets": "116"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\argot\\.gradle\\caches\\transforms-2\\files-2.1\\70ba8d6496ae21c435e97894c1d47fbb\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\YO\\.gradle\\caches\\transforms-2\\files-2.1\\2c7eb73a633ff229c58930e4a6eeb9e6\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -30,6 +20,16 @@
                         "endLines": "6",
                         "endColumns": "12",
                         "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\YO\\.gradle\\caches\\transforms-2\\files-2.1\\471402fb63f2cdd14d536f8be186e5c6\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
                     }
                 }
             ]

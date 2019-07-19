@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\Repositorio\\aprendiendomuru\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
+            "outputFile": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\argot\\.gradle\\caches\\transforms-2\\files-2.1\\70ba8d6496ae21c435e97894c1d47fbb\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\YO\\.gradle\\caches\\transforms-2\\files-2.1\\2c7eb73a633ff229c58930e4a6eeb9e6\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,19,32,33,34,35,36",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",

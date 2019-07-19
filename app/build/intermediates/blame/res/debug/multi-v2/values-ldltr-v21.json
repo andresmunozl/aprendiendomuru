@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\Repositorio\\aprendiendomuru\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldltr-v21\\values-ldltr-v21.xml",
+            "outputFile": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldltr-v21\\values-ldltr-v21.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\argot\\.gradle\\caches\\transforms-2\\files-2.1\\70ba8d6496ae21c435e97894c1d47fbb\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+                    "source": "C:\\Users\\YO\\.gradle\\caches\\transforms-2\\files-2.1\\2c7eb73a633ff229c58930e4a6eeb9e6\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
