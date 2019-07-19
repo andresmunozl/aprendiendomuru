@@ -8,9 +8,14 @@ import android.view.View;
 import android.widget.ImageButton;
 import android.widget.Toast;
 
+import com.equiposemilleromuru.aprendiendo.control.JuegoDavidActivity;
+
 public class MainActivity extends AppCompatActivity implements View.OnClickListener{
 
     ImageButton btnLuis,btnLina,btnDavid,btnFernanda,btnCarlos,btnCristian,btnVictoria,btnDaniel,btnAndres;
+
+    private Intent intent;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -62,7 +67,11 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 Toast.makeText(this, "btn Lina", Toast.LENGTH_SHORT).show();
                 break;
             case R.id.btnDavid:
-                Toast.makeText(this, "btn David", Toast.LENGTH_SHORT).show();
+
+                intent = new Intent(MainActivity.this, JuegoDavidActivity.class);
+                startActivity(intent);
+                finish();
+
                 break;
             case  R.id.btnVictoria:
                 Toast.makeText(this, "btn Victoria", Toast.LENGTH_SHORT).show();

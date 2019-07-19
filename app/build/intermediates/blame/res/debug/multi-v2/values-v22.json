@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/zulema/Documents/ProjectAndroid/aprendiendomuru/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v22/values-v22.xml",
+            "outputFile": "E:\\Repositorio\\aprendiendomuru\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v22\\values-v22.xml",
             "map": [
                 {
-                    "source": "/Users/zulema/.gradle/caches/transforms-2/files-2.1/e52a9ae69d3fb9747953ccd8f542893e/res/values-v22/values-v22.xml",
+                    "source": "C:\\Users\\argot\\.gradle\\caches\\transforms-2\\files-2.1\\70ba8d6496ae21c435e97894c1d47fbb\\res\\values-v22\\values-v22.xml",
                     "from": {
                         "startLines": "2,3,4,9",
                         "startColumns": "4,4,4,4",

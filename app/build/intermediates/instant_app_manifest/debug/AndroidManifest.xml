@@ -19,6 +19,7 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
+        <activity android:name="com.equiposemilleromuru.aprendiendo.control.JuegoDavidActivity" />
         <activity android:name="com.equiposemilleromuru.aprendiendo.VocalesActivityA" />
         <activity android:name="com.equiposemilleromuru.aprendiendo.NumerosActivityA" />
         <activity android:name="com.equiposemilleromuru.aprendiendo.Splash" />

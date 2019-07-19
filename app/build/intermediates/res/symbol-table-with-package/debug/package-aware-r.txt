@@ -633,6 +633,8 @@ drawable abeja
 drawable arbol
 drawable arcoiris
 drawable avion
+drawable btn_azul
+drawable cerrar
 drawable elefante
 drawable escalera
 drawable escoba
@@ -651,6 +653,7 @@ drawable letrae
 drawable letrai
 drawable letrao
 drawable letrau
+drawable logocontruccion
 drawable notification_action_background
 drawable notification_bg
 drawable notification_bg_low
@@ -710,10 +713,12 @@ id blocking
 id bottom
 id btnAndres
 id btnCarlos
+id btnCerrarDavid
 id btnCristian
 id btnDaniel
 id btnDavid
 id btnFernanda
+id btnIniciarDavid
 id btnLina
 id btnLuis
 id btnNumeros
@@ -755,6 +760,7 @@ id icon
 id icon_group
 id ifRoom
 id image
+id imageView2
 id info
 id invisible
 id italic
@@ -869,6 +875,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_juego_david
 layout activity_main
 layout activity_main2
 layout activity_menu_vocales_numeros

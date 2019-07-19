@@ -18,11 +18,11 @@
 
 
             <ImageButton
+                android:id="@+id/btnDavid"
                 android:layout_width="match_parent"
                 android:layout_height="100sp"
-                android:src="@mipmap/ic_launcher"
-                android:id="@+id/btnDavid"
-                />
+                android:backgroundTint="@android:color/background_light"
+                android:src="@drawable/btn_azul" />
 
             <ImageButton
                 android:layout_width="match_parent"

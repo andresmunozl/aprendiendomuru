@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/zulema/Documents/ProjectAndroid/aprendiendomuru/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hu/values-hu.xml",
+            "outputFile": "E:\\Repositorio\\aprendiendomuru\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hu\\values-hu.xml",
             "map": [
                 {
-                    "source": "/Users/zulema/.gradle/caches/transforms-2/files-2.1/e52a9ae69d3fb9747953ccd8f542893e/res/values-hu/values-hu.xml",
+                    "source": "C:\\Users\\argot\\.gradle\\caches\\transforms-2\\files-2.1\\70ba8d6496ae21c435e97894c1d47fbb\\res\\values-hu\\values-hu.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/Users/zulema/.gradle/caches/transforms-2/files-2.1/1173b57a4379dd70836eccdc42b8d7e4/res/values-hu/values-hu.xml",
+                    "source": "C:\\Users\\argot\\.gradle\\caches\\transforms-2\\files-2.1\\d5ed68be1d30419b3def9ea81bbeced8\\res\\values-hu\\values-hu.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
