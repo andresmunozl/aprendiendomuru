@@ -1,4 +1,18 @@
 <resources>
     <string name="app_name">aprendiendo</string>
     <string name="menuTitulo">Menú</string>
+
+
+    //Strings Daniel
+    <string name="BTN1">Comenzar</string>
+    <string name="TXT">Aprende Jugando</string>
+    <string name="uno">Uno</string>
+    <string name="dos">Dos</string>
+    <string name="tres">Tres</string>
+    <string name="cuatro">Cuatro</string>
+    <string name="cinco">Cinco</string>
+    <string name="Evaluacion">Evaluacion</string>
+    <string name="numero">¿ Numero ?</string>
+    <string name="escoje">¿ Nombre ?</string>
+
 </resources>

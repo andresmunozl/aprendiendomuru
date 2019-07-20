@@ -24,20 +24,28 @@
         "source": "C:\\Users\\YO\\.gradle\\caches\\transforms-2\\files-2.1\\2c7eb73a633ff229c58930e4a6eeb9e6\\res\\layout\\abc_search_view.xml"
     },
     {
-        "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_btn_colored_material.xml.flat",
-        "source": "C:\\Users\\YO\\.gradle\\caches\\transforms-2\\files-2.1\\2c7eb73a633ff229c58930e4a6eeb9e6\\res\\drawable-v21\\abc_btn_colored_material.xml"
+        "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\YO\\.gradle\\caches\\transforms-2\\files-2.1\\2c7eb73a633ff229c58930e4a6eeb9e6\\res\\drawable-xxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
         "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_btn_colored_text_material.xml.flat",
         "source": "C:\\Users\\YO\\.gradle\\caches\\transforms-2\\files-2.1\\2c7eb73a633ff229c58930e4a6eeb9e6\\res\\color-v23\\abc_btn_colored_text_material.xml"
     },
     {
-        "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
-        "source": "C:\\Users\\YO\\.gradle\\caches\\transforms-2\\files-2.1\\2c7eb73a633ff229c58930e4a6eeb9e6\\res\\drawable-xxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+        "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_btn_colored_material.xml.flat",
+        "source": "C:\\Users\\YO\\.gradle\\caches\\transforms-2\\files-2.1\\2c7eb73a633ff229c58930e4a6eeb9e6\\res\\drawable-v21\\abc_btn_colored_material.xml"
     },
     {
         "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_black_16dp.png.flat",
         "source": "C:\\Users\\YO\\.gradle\\caches\\transforms-2\\files-2.1\\2c7eb73a633ff229c58930e4a6eeb9e6\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_manzana.png.flat",
+        "source": "E:\\Usu_git\\aprendiendomuru\\app\\src\\main\\res\\drawable-xhdpi\\manzana.png"
+    },
+    {
+        "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_manzana.png.flat",
+        "source": "E:\\Usu_git\\aprendiendomuru\\app\\src\\main\\res\\drawable-xxhdpi\\manzana.png"
     },
     {
         "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abeja.png.flat",
@@ -68,12 +76,20 @@
         "source": "E:\\Usu_git\\aprendiendomuru\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
+        "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tres.png.flat",
+        "source": "E:\\Usu_git\\aprendiendomuru\\app\\src\\main\\res\\drawable-hdpi\\tres.png"
+    },
+    {
         "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_popup_enter.xml.flat",
         "source": "C:\\Users\\YO\\.gradle\\caches\\transforms-2\\files-2.1\\2c7eb73a633ff229c58930e4a6eeb9e6\\res\\anim\\abc_popup_enter.xml"
     },
     {
         "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_in_bottom.xml.flat",
         "source": "C:\\Users\\YO\\.gradle\\caches\\transforms-2\\files-2.1\\2c7eb73a633ff229c58930e4a6eeb9e6\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_juego_daniel6.xml.flat",
+        "source": "E:\\Usu_git\\aprendiendomuru\\app\\src\\main\\res\\layout\\activity_juego_daniel6.xml"
     },
     {
         "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_uva.png.flat",
@@ -176,6 +192,10 @@
         "source": "C:\\Users\\YO\\.gradle\\caches\\transforms-2\\files-2.1\\2c7eb73a633ff229c58930e4a6eeb9e6\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
     },
     {
+        "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_cuatro.png.flat",
+        "source": "E:\\Usu_git\\aprendiendomuru\\app\\src\\main\\res\\drawable-xxxhdpi\\cuatro.png"
+    },
+    {
         "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
         "source": "C:\\Users\\YO\\.gradle\\caches\\transforms-2\\files-2.1\\2c7eb73a633ff229c58930e4a6eeb9e6\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
     },
@@ -248,6 +268,10 @@
         "source": "C:\\Users\\YO\\.gradle\\caches\\transforms-2\\files-2.1\\2c7eb73a633ff229c58930e4a6eeb9e6\\res\\layout\\abc_action_menu_item_layout.xml"
     },
     {
+        "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cuatro.png.flat",
+        "source": "E:\\Usu_git\\aprendiendomuru\\app\\src\\main\\res\\drawable-hdpi\\cuatro.png"
+    },
+    {
         "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
         "source": "C:\\Users\\YO\\.gradle\\caches\\transforms-2\\files-2.1\\2c7eb73a633ff229c58930e4a6eeb9e6\\res\\drawable-mdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
     },
@@ -286,6 +310,14 @@
     {
         "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_letrao.png.flat",
         "source": "E:\\Usu_git\\aprendiendomuru\\app\\src\\main\\res\\drawable-mdpi\\letrao.png"
+    },
+    {
+        "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_juego_daniel8.xml.flat",
+        "source": "E:\\Usu_git\\aprendiendomuru\\app\\src\\main\\res\\layout\\activity_juego_daniel8.xml"
+    },
+    {
+        "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_uno.png.flat",
+        "source": "E:\\Usu_git\\aprendiendomuru\\app\\src\\main\\res\\drawable-xxxhdpi\\uno.png"
     },
     {
         "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_checkbox.xml.flat",
@@ -336,12 +368,12 @@
         "source": "C:\\Users\\YO\\.gradle\\caches\\transforms-2\\files-2.1\\2c7eb73a633ff229c58930e4a6eeb9e6\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
-        "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_black_36dp.png.flat",
-        "source": "C:\\Users\\YO\\.gradle\\caches\\transforms-2\\files-2.1\\2c7eb73a633ff229c58930e4a6eeb9e6\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_36dp.png"
-    },
-    {
         "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
         "source": "C:\\Users\\YO\\.gradle\\caches\\transforms-2\\files-2.1\\2c7eb73a633ff229c58930e4a6eeb9e6\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\YO\\.gradle\\caches\\transforms-2\\files-2.1\\2c7eb73a633ff229c58930e4a6eeb9e6\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_36dp.png"
     },
     {
         "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_elefante.png.flat",
@@ -464,6 +496,14 @@
         "source": "C:\\Users\\YO\\.gradle\\caches\\transforms-2\\files-2.1\\2c7eb73a633ff229c58930e4a6eeb9e6\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
     },
     {
+        "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_tres.png.flat",
+        "source": "E:\\Usu_git\\aprendiendomuru\\app\\src\\main\\res\\drawable-xxxhdpi\\tres.png"
+    },
+    {
+        "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_uno.png.flat",
+        "source": "E:\\Usu_git\\aprendiendomuru\\app\\src\\main\\res\\drawable-xxhdpi\\uno.png"
+    },
+    {
         "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_iglesia.png.flat",
         "source": "E:\\Usu_git\\aprendiendomuru\\app\\src\\main\\res\\drawable-xhdpi\\iglesia.png"
     },
@@ -478,6 +518,10 @@
     {
         "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_arcoiris.png.flat",
         "source": "E:\\Usu_git\\aprendiendomuru\\app\\src\\main\\res\\drawable-xxhdpi\\arcoiris.png"
+    },
+    {
+        "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_cuatro.png.flat",
+        "source": "E:\\Usu_git\\aprendiendomuru\\app\\src\\main\\res\\drawable-xxhdpi\\cuatro.png"
     },
     {
         "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_vocales.png.flat",
@@ -542,6 +586,10 @@
     {
         "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_color_highlight_material.xml.flat",
         "source": "C:\\Users\\YO\\.gradle\\caches\\transforms-2\\files-2.1\\2c7eb73a633ff229c58930e4a6eeb9e6\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tres.png.flat",
+        "source": "E:\\Usu_git\\aprendiendomuru\\app\\src\\main\\res\\drawable-mdpi\\tres.png"
     },
     {
         "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
@@ -720,6 +768,10 @@
         "source": "C:\\Users\\YO\\.gradle\\caches\\transforms-2\\files-2.1\\2c7eb73a633ff229c58930e4a6eeb9e6\\res\\drawable\\abc_ratingbar_material.xml"
     },
     {
+        "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_cinco.png.flat",
+        "source": "E:\\Usu_git\\aprendiendomuru\\app\\src\\main\\res\\drawable-xxhdpi\\cinco.png"
+    },
+    {
         "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_letrae.png.flat",
         "source": "E:\\Usu_git\\aprendiendomuru\\app\\src\\main\\res\\drawable-hdpi\\letrae.png"
     },
@@ -750,6 +802,10 @@
     {
         "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_black_48dp.png.flat",
         "source": "C:\\Users\\YO\\.gradle\\caches\\transforms-2\\files-2.1\\2c7eb73a633ff229c58930e4a6eeb9e6\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_juego_daniel2.xml.flat",
+        "source": "E:\\Usu_git\\aprendiendomuru\\app\\src\\main\\res\\layout\\activity_juego_daniel2.xml"
     },
     {
         "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
@@ -908,6 +964,10 @@
         "source": "E:\\Usu_git\\aprendiendomuru\\app\\src\\main\\res\\drawable-xhdpi\\cerrar.png"
     },
     {
+        "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_juego_daniel3.xml.flat",
+        "source": "E:\\Usu_git\\aprendiendomuru\\app\\src\\main\\res\\layout\\activity_juego_daniel3.xml"
+    },
+    {
         "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
         "source": "C:\\Users\\YO\\.gradle\\caches\\transforms-2\\files-2.1\\2c7eb73a633ff229c58930e4a6eeb9e6\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
     },
@@ -984,6 +1044,10 @@
         "source": "E:\\Usu_git\\aprendiendomuru\\app\\src\\main\\res\\drawable-xhdpi\\oveja.png"
     },
     {
+        "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_dos.png.flat",
+        "source": "E:\\Usu_git\\aprendiendomuru\\app\\src\\main\\res\\drawable-xhdpi\\dos.png"
+    },
+    {
         "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_fondouno.png.flat",
         "source": "E:\\Usu_git\\aprendiendomuru\\app\\src\\main\\res\\drawable-hdpi\\fondouno.png"
     },
@@ -1020,6 +1084,10 @@
         "source": "C:\\Users\\YO\\.gradle\\caches\\transforms-2\\files-2.1\\2c7eb73a633ff229c58930e4a6eeb9e6\\res\\drawable-mdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
+        "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cinco.png.flat",
+        "source": "E:\\Usu_git\\aprendiendomuru\\app\\src\\main\\res\\drawable-hdpi\\cinco.png"
+    },
+    {
         "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_numeros.png.flat",
         "source": "E:\\Usu_git\\aprendiendomuru\\app\\src\\main\\res\\drawable-mdpi\\numeros.png"
     },
@@ -1034,6 +1102,10 @@
     {
         "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
         "source": "C:\\Users\\YO\\.gradle\\caches\\transforms-2\\files-2.1\\2c7eb73a633ff229c58930e4a6eeb9e6\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_manzana.png.flat",
+        "source": "E:\\Usu_git\\aprendiendomuru\\app\\src\\main\\res\\drawable-hdpi\\manzana.png"
     },
     {
         "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_secondary_text_material_light.xml.flat",
@@ -1056,8 +1128,16 @@
         "source": "C:\\Users\\YO\\.gradle\\caches\\transforms-2\\files-2.1\\2c7eb73a633ff229c58930e4a6eeb9e6\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
+        "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cuatro.png.flat",
+        "source": "E:\\Usu_git\\aprendiendomuru\\app\\src\\main\\res\\drawable-mdpi\\cuatro.png"
+    },
+    {
         "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
         "source": "C:\\Users\\YO\\.gradle\\caches\\transforms-2\\files-2.1\\2c7eb73a633ff229c58930e4a6eeb9e6\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_uno.png.flat",
+        "source": "E:\\Usu_git\\aprendiendomuru\\app\\src\\main\\res\\drawable-mdpi\\uno.png"
     },
     {
         "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
@@ -1112,6 +1192,10 @@
         "source": "C:\\Users\\YO\\.gradle\\caches\\transforms-2\\files-2.1\\2c7eb73a633ff229c58930e4a6eeb9e6\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
+        "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_juego_daniel4.xml.flat",
+        "source": "E:\\Usu_git\\aprendiendomuru\\app\\src\\main\\res\\layout\\activity_juego_daniel4.xml"
+    },
+    {
         "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_seekbar_track_material.xml.flat",
         "source": "C:\\Users\\YO\\.gradle\\caches\\transforms-2\\files-2.1\\2c7eb73a633ff229c58930e4a6eeb9e6\\res\\drawable\\abc_seekbar_track_material.xml"
     },
@@ -1136,6 +1220,10 @@
         "source": "E:\\Usu_git\\aprendiendomuru\\app\\src\\main\\res\\drawable-mdpi\\oveja.png"
     },
     {
+        "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_juego_daniel7.xml.flat",
+        "source": "E:\\Usu_git\\aprendiendomuru\\app\\src\\main\\res\\layout\\activity_juego_daniel7.xml"
+    },
+    {
         "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
         "source": "C:\\Users\\YO\\.gradle\\caches\\transforms-2\\files-2.1\\2c7eb73a633ff229c58930e4a6eeb9e6\\res\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
     },
@@ -1150,6 +1238,10 @@
     {
         "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_half_black_36dp.png.flat",
         "source": "C:\\Users\\YO\\.gradle\\caches\\transforms-2\\files-2.1\\2c7eb73a633ff229c58930e4a6eeb9e6\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_cuatro.png.flat",
+        "source": "E:\\Usu_git\\aprendiendomuru\\app\\src\\main\\res\\drawable-xhdpi\\cuatro.png"
     },
     {
         "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_black_48dp.png.flat",
@@ -1226,6 +1318,10 @@
     {
         "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_letrau.png.flat",
         "source": "E:\\Usu_git\\aprendiendomuru\\app\\src\\main\\res\\drawable-xxxhdpi\\letrau.png"
+    },
+    {
+        "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_tres.png.flat",
+        "source": "E:\\Usu_git\\aprendiendomuru\\app\\src\\main\\res\\drawable-xhdpi\\tres.png"
     },
     {
         "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
@@ -1348,6 +1444,10 @@
         "source": "E:\\Usu_git\\aprendiendomuru\\app\\src\\main\\res\\drawable-ldpi\\cerrar.png"
     },
     {
+        "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_uno.png.flat",
+        "source": "E:\\Usu_git\\aprendiendomuru\\app\\src\\main\\res\\drawable-xhdpi\\uno.png"
+    },
+    {
         "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_in_top.xml.flat",
         "source": "C:\\Users\\YO\\.gradle\\caches\\transforms-2\\files-2.1\\2c7eb73a633ff229c58930e4a6eeb9e6\\res\\anim\\abc_slide_in_top.xml"
     },
@@ -1362,6 +1462,10 @@
     {
         "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_letraa.png.flat",
         "source": "E:\\Usu_git\\aprendiendomuru\\app\\src\\main\\res\\drawable-mdpi\\letraa.png"
+    },
+    {
+        "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_juego_daniel5.xml.flat",
+        "source": "E:\\Usu_git\\aprendiendomuru\\app\\src\\main\\res\\layout\\activity_juego_daniel5.xml"
     },
     {
         "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
@@ -1516,6 +1620,10 @@
         "source": "C:\\Users\\YO\\.gradle\\caches\\transforms-2\\files-2.1\\2c7eb73a633ff229c58930e4a6eeb9e6\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
+        "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_juego_daniel.xml.flat",
+        "source": "E:\\Usu_git\\aprendiendomuru\\app\\src\\main\\res\\layout\\activity_juego_daniel.xml"
+    },
+    {
         "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_go_search_api_material.xml.flat",
         "source": "C:\\Users\\YO\\.gradle\\caches\\transforms-2\\files-2.1\\2c7eb73a633ff229c58930e4a6eeb9e6\\res\\drawable\\abc_ic_go_search_api_material.xml"
     },
@@ -1534,6 +1642,14 @@
     {
         "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\YO\\.gradle\\caches\\transforms-2\\files-2.1\\2c7eb73a633ff229c58930e4a6eeb9e6\\res\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_dos.png.flat",
+        "source": "E:\\Usu_git\\aprendiendomuru\\app\\src\\main\\res\\drawable-xxxhdpi\\dos.png"
+    },
+    {
+        "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_uno.png.flat",
+        "source": "E:\\Usu_git\\aprendiendomuru\\app\\src\\main\\res\\drawable-hdpi\\uno.png"
     },
     {
         "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_cerrar.png.flat",
@@ -1628,8 +1744,16 @@
         "source": "E:\\Usu_git\\aprendiendomuru\\app\\src\\main\\res\\drawable-xxxhdpi\\cerrar.png"
     },
     {
+        "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_dos.png.flat",
+        "source": "E:\\Usu_git\\aprendiendomuru\\app\\src\\main\\res\\drawable-xxhdpi\\dos.png"
+    },
+    {
         "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_arbol.png.flat",
         "source": "E:\\Usu_git\\aprendiendomuru\\app\\src\\main\\res\\drawable-hdpi\\arbol.png"
+    },
+    {
+        "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dos.png.flat",
+        "source": "E:\\Usu_git\\aprendiendomuru\\app\\src\\main\\res\\drawable-hdpi\\dos.png"
     },
     {
         "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
@@ -1678,6 +1802,10 @@
     {
         "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
         "source": "E:\\Usu_git\\aprendiendomuru\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_tres.png.flat",
+        "source": "E:\\Usu_git\\aprendiendomuru\\app\\src\\main\\res\\drawable-xxhdpi\\tres.png"
     },
     {
         "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_btn_colored_borderless_text_material.xml.flat",
@@ -1760,12 +1888,20 @@
         "source": "C:\\Users\\YO\\.gradle\\caches\\transforms-2\\files-2.1\\2c7eb73a633ff229c58930e4a6eeb9e6\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
+        "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_cinco.png.flat",
+        "source": "E:\\Usu_git\\aprendiendomuru\\app\\src\\main\\res\\drawable-xxxhdpi\\cinco.png"
+    },
+    {
         "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_mode_close_item_material.xml.flat",
         "source": "C:\\Users\\YO\\.gradle\\caches\\transforms-2\\files-2.1\\2c7eb73a633ff229c58930e4a6eeb9e6\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
     {
         "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_black_16dp.png.flat",
         "source": "C:\\Users\\YO\\.gradle\\caches\\transforms-2\\files-2.1\\2c7eb73a633ff229c58930e4a6eeb9e6\\res\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_manzana.png.flat",
+        "source": "E:\\Usu_git\\aprendiendomuru\\app\\src\\main\\res\\drawable-xxxhdpi\\manzana.png"
     },
     {
         "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_isla.png.flat",
@@ -1944,6 +2080,10 @@
         "source": "E:\\Usu_git\\aprendiendomuru\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
     },
     {
+        "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_dos.png.flat",
+        "source": "E:\\Usu_git\\aprendiendomuru\\app\\src\\main\\res\\drawable-mdpi\\dos.png"
+    },
+    {
         "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\YO\\.gradle\\caches\\transforms-2\\files-2.1\\2c7eb73a633ff229c58930e4a6eeb9e6\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
     },
@@ -2020,6 +2160,10 @@
         "source": "C:\\Users\\YO\\.gradle\\caches\\transforms-2\\files-2.1\\2c7eb73a633ff229c58930e4a6eeb9e6\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
+        "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_cinco.png.flat",
+        "source": "E:\\Usu_git\\aprendiendomuru\\app\\src\\main\\res\\drawable-xhdpi\\cinco.png"
+    },
+    {
         "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_iguana.png.flat",
         "source": "E:\\Usu_git\\aprendiendomuru\\app\\src\\main\\res\\drawable-mdpi\\iguana.png"
     },
@@ -2038,6 +2182,10 @@
     {
         "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\YO\\.gradle\\caches\\transforms-2\\files-2.1\\2c7eb73a633ff229c58930e4a6eeb9e6\\res\\drawable-xxhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_manzana.png.flat",
+        "source": "E:\\Usu_git\\aprendiendomuru\\app\\src\\main\\res\\drawable-mdpi\\manzana.png"
     },
     {
         "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_oreja.png.flat",
@@ -2154,6 +2302,10 @@
     {
         "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
         "source": "C:\\Users\\YO\\.gradle\\caches\\transforms-2\\files-2.1\\471402fb63f2cdd14d536f8be186e5c6\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cinco.png.flat",
+        "source": "E:\\Usu_git\\aprendiendomuru\\app\\src\\main\\res\\drawable-mdpi\\cinco.png"
     },
     {
         "merged": "E:\\Usu_git\\aprendiendomuru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",

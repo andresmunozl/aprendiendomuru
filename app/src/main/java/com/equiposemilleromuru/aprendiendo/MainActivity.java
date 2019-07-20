@@ -9,6 +9,7 @@ import android.widget.ImageButton;
 import android.widget.Toast;
 
 import com.equiposemilleromuru.aprendiendo.control.JuegoDavidActivity;
+import com.equiposemilleromuru.aprendiendo.control.juegodaniel.JuegoDanielActivity;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener{
 
@@ -58,7 +59,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 Toast.makeText(this, "btn Luis", Toast.LENGTH_SHORT).show();
                 break;
             case  R.id.btnDaniel:
-                Toast.makeText(this, "btn Daniel", Toast.LENGTH_SHORT).show();
+                Intent ir = new Intent(getApplicationContext(), JuegoDanielActivity.class);
+                startActivity(ir);
                 break;
             case R.id.btnFernanda:
                 Toast.makeText(this, "btn Fernanda", Toast.LENGTH_SHORT).show();

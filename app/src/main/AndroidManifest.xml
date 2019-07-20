@@ -9,7 +9,14 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".control.JuegoDanielActivity"></activity>
+        <activity android:name=".control.juegodaniel.JuegoDanielActivity8"></activity>
+        <activity android:name=".control.juegodaniel.JuegoDanielActivity7" />
+        <activity android:name=".control.juegodaniel.JuegoDanielActivity6" />
+        <activity android:name=".control.juegodaniel.JuegoDanielActivity5" />
+        <activity android:name=".control.juegodaniel.JuegoDanielActivity4" />
+        <activity android:name=".control.juegodaniel.JuegoDanielActivity3" />
+        <activity android:name=".control.juegodaniel.JuegoDanielActivity2" />
+        <activity android:name=".control.juegodaniel.JuegoDanielActivity" />
         <activity android:name=".control.JuegoDavidActivity" />
         <activity android:name=".VocalesActivityA" />
         <activity android:name=".NumerosActivityA" />

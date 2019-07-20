@@ -16,8 +16,16 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
+        android:testOnly="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.equiposemilleromuru.aprendiendo.control.JuegoDanielActivity" />
+        <activity android:name="com.equiposemilleromuru.aprendiendo.control.juegodaniel.JuegoDanielActivity8" />
+        <activity android:name="com.equiposemilleromuru.aprendiendo.control.juegodaniel.JuegoDanielActivity7" />
+        <activity android:name="com.equiposemilleromuru.aprendiendo.control.juegodaniel.JuegoDanielActivity6" />
+        <activity android:name="com.equiposemilleromuru.aprendiendo.control.juegodaniel.JuegoDanielActivity5" />
+        <activity android:name="com.equiposemilleromuru.aprendiendo.control.juegodaniel.JuegoDanielActivity4" />
+        <activity android:name="com.equiposemilleromuru.aprendiendo.control.juegodaniel.JuegoDanielActivity3" />
+        <activity android:name="com.equiposemilleromuru.aprendiendo.control.juegodaniel.JuegoDanielActivity2" />
+        <activity android:name="com.equiposemilleromuru.aprendiendo.control.juegodaniel.JuegoDanielActivity" />
         <activity android:name="com.equiposemilleromuru.aprendiendo.control.JuegoDavidActivity" />
         <activity android:name="com.equiposemilleromuru.aprendiendo.VocalesActivityA" />
         <activity android:name="com.equiposemilleromuru.aprendiendo.NumerosActivityA" />
